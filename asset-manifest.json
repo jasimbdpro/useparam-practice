@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/useparam-practice/static/css/main.29e8b6f1.css",
+    "main.js": "/useparam-practice/static/js/main.6e8a59bb.js",
+    "static/js/453.64512fd7.chunk.js": "/useparam-practice/static/js/453.64512fd7.chunk.js",
+    "index.html": "/useparam-practice/index.html",
+    "main.29e8b6f1.css.map": "/useparam-practice/static/css/main.29e8b6f1.css.map",
+    "main.6e8a59bb.js.map": "/useparam-practice/static/js/main.6e8a59bb.js.map",
+    "453.64512fd7.chunk.js.map": "/useparam-practice/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e8b6f1.css",
+    "static/js/main.6e8a59bb.js"
+  ]
+}
