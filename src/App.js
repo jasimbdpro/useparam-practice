@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Home from './components/Home/Home';
 import About from './components/About/About';
@@ -8,7 +8,7 @@ import Details from './components/Details/Details';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <br />
 
@@ -18,7 +18,7 @@ function App() {
           <Route path='/product/:productId' element={<Details />} />
         </Routes>
 
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
